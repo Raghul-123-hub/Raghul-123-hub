@@ -1,5 +1,5 @@
 <div align="center">
-   <img src="./assets/hero.svg" alt="Cinematic developer profile visualization for Raghul D" width="1200" />
+  <img src="./assets/hero.svg" alt="Animated cinematic web network for Raghul D" width="1200" />
 </div>
 
 <div align="center">
@@ -19,13 +19,28 @@
 
 ---
 
-## // ABOUT RAGHUL
+## // SYSTEM MAP
 
-I am Raghul D, a developer who enjoys turning ideas into working digital experiences.
+`01` [ABOUT RAGHUL](#-about-raghul) &nbsp; `02` [DEVELOPMENT SIGNAL](#-development-signal)<br />
+`03` [ACTIVE MISSIONS](#-active-missions) &nbsp; `04` [CODE DNA](#-code-dna)<br />
+`05` [CURRENTLY BUILDING](#-currently-building) &nbsp; `06` [UPGRADING SYSTEM](#-upgrading-system)<br />
+`07` [ACTIVITY NETWORK](#-activity-network) &nbsp; `08` [CONNECT](#-connect) &nbsp; `09` [SYSTEM ONLINE](#-system-online)
 
-I use GitHub as a development lab for software projects, coursework-driven repositories, web interfaces, and creative technology experiments. The work is in motion: learning, building, and shipping one repository at a time.
+<a id="-about-raghul"></a>
 
-## // DEVELOPMENT SIGNAL
+## // ABOUT RAGHUL <sub>● ACTIVE</sub>
+
+<img src="./assets/about-network.svg" alt="Animated network connecting Raghul D with building, learning, and exploring" width="100%" />
+
+`[01]` I build working digital experiences.<br />
+`[02]` I explore software projects, coursework repositories, and web interfaces.<br />
+`[03]` I keep learning through public experiments on GitHub.
+
+<a id="-development-signal"></a>
+
+## // DEVELOPMENT SIGNAL <sub>● ONLINE</sub>
+
+<img src="./assets/development-signal.svg" alt="Animated development signal dashboard showing online status and building mode" width="100%" />
 
 | SIGNAL | STATE |
 | :--- | :--- |
@@ -34,105 +49,131 @@ I use GitHub as a development lab for software projects, coursework-driven repos
 | REPOSITORIES | [LIVE INDEX](https://github.com/Raghul-123-hub?tab=repositories) |
 | STARS | [VIEW ON GITHUB](https://github.com/Raghul-123-hub?tab=stars) |
 
-> Repository and contribution counts are intentionally kept live on GitHub rather than frozen in this README.
+> Repository, contribution, and star counts remain live on GitHub rather than being frozen in this README.
 
-## // ACTIVE MISSIONS
+<a id="-active-missions"></a>
 
-The cards below use public repository metadata. Where GitHub does not expose a description or language, the profile says so instead of guessing.
+## // ACTIVE MISSIONS <sub>● SCANNING</sub>
+
+Each mission is a real public repository. The cards reveal as the page loads; the text remains readable without animation.
 
 ### MISSION 01 / `content-ops-starter`
 
-TypeScript repository with a verified MIT license. No public repository description is currently set.
+`STATUS: ACTIVE` &nbsp; `SIGNAL: TYPESCRIPT` &nbsp; `LICENSE: MIT`
 
-**SIGNAL:** `TYPESCRIPT` &nbsp; `MIT` &nbsp; [SOURCE CODE](https://github.com/Raghul-123-hub/content-ops-starter)
+Public TypeScript repository with a verified MIT license. No public repository description is currently set.
+
+[SOURCE CODE](https://github.com/Raghul-123-hub/content-ops-starter)
 
 ### MISSION 02 / `nextjs-boilerplate`
 
-TypeScript repository with a published Vercel homepage linked from GitHub.
+`STATUS: ACTIVE` &nbsp; `SIGNAL: TYPESCRIPT` &nbsp; `DEPLOYMENT: VERCEL`
 
-**SIGNAL:** `TYPESCRIPT` &nbsp; [SOURCE CODE](https://github.com/Raghul-123-hub/nextjs-boilerplate) &nbsp; [LIVE HOMEPAGE](https://nextjs-boilerplate-pied-ten-72.vercel.app)
+Public TypeScript repository with a Vercel homepage linked from GitHub.
+
+[SOURCE CODE](https://github.com/Raghul-123-hub/nextjs-boilerplate) &nbsp; [LIVE HOMEPAGE](https://nextjs-boilerplate-pied-ten-72.vercel.app)
 
 ### MISSION 03 / `FSF0101`
 
+`STATUS: ACTIVE` &nbsp; `SIGNAL: JAVASCRIPT`
+
 Public JavaScript repository with no public description currently set.
 
-**SIGNAL:** `JAVASCRIPT` &nbsp; [SOURCE CODE](https://github.com/Raghul-123-hub/FSF0101)
+[SOURCE CODE](https://github.com/Raghul-123-hub/FSF0101)
 
 ### MISSION 04 / `CSA1264`
 
+`STATUS: ACTIVE` &nbsp; `SIGNAL: LANGUAGE NOT DECLARED`
+
 Public repository with no description or detected primary language currently exposed by GitHub.
 
-**SIGNAL:** `LANGUAGE NOT DECLARED` &nbsp; [SOURCE CODE](https://github.com/Raghul-123-hub/CSA1264)
+[SOURCE CODE](https://github.com/Raghul-123-hub/CSA1264)
 
 ### MISSION 05 / `Stzz`
 
+`STATUS: ACTIVE` &nbsp; `SIGNAL: LANGUAGE NOT DECLARED`
+
 Public repository with no description or detected primary language currently exposed by GitHub.
 
-**SIGNAL:** `LANGUAGE NOT DECLARED` &nbsp; [SOURCE CODE](https://github.com/Raghul-123-hub/Stzz)
+[SOURCE CODE](https://github.com/Raghul-123-hub/Stzz)
 
 ### MISSION 06 / `CSA0703`
 
+`STATUS: ACTIVE` &nbsp; `SIGNAL: LANGUAGE NOT DECLARED`
+
 Public repository with no description or detected primary language currently exposed by GitHub.
 
-**SIGNAL:** `LANGUAGE NOT DECLARED` &nbsp; [SOURCE CODE](https://github.com/Raghul-123-hub/CSA0703)
+[SOURCE CODE](https://github.com/Raghul-123-hub/CSA0703)
 
-## // TECHNOLOGY MATRIX
+<a id="-code-dna"></a>
 
-The visible language signal is grounded in the repositories above and the wider public profile.
+## // CODE DNA <sub>● CONNECTED</sub>
 
-| DOMAIN | VERIFIED SIGNAL |
+<img src="./assets/code-dna.svg" alt="Animated code network showing JavaScript and TypeScript signals" width="100%" />
+
+| VERIFIED LANGUAGE SIGNAL | PUBLIC REPOSITORIES |
 | :--- | :--- |
-| LANGUAGES | `TYPESCRIPT` / `JAVASCRIPT` |
-| WEB | `NEXT.JS REPOSITORY` / `VERCEL HOMEPAGE` |
-| LICENSED WORK | `MIT LICENSE` ON `content-ops-starter` |
-| WORKFLOW | PUBLIC GITHUB REPOSITORIES |
+| `TYPESCRIPT` | `content-ops-starter`, `nextjs-boilerplate` |
+| `JAVASCRIPT` | `FSF0101` and additional public repositories |
+| `HTML` | Additional public repositories |
+| `PYTHON` | Additional public repositories |
 
-## // CODE DNA
+GitHub remains the source of truth for the complete language distribution.
 
-```text
-TYPESCRIPT  [ content-ops-starter, nextjs-boilerplate ]
-JAVASCRIPT  [ FSF0101 ]
-HTML        [ additional public repositories ]
-PYTHON      [ additional public repositories ]
-```
+<a id="-currently-building"></a>
 
-The language list reflects the public repository signals available at the time this profile was prepared. GitHub remains the source of truth for the complete distribution.
+## // CURRENTLY BUILDING <sub>● ITERATING</sub>
 
-## // CURRENTLY BUILDING
+<img src="./assets/currently-building.svg" alt="Animated terminal showing building, experimenting, and iterating states" width="100%" />
 
-- Web interfaces and application experiments represented by the TypeScript repositories.
+- Web interface and application experiments represented by the TypeScript repositories.
 - Coursework-driven software repositories identified by the `CSA` and `FSF` projects.
-- Creative technology exploration through the public profile and portfolio work.
+- Creative technology exploration through public software experiments.
 
-## // UPGRADING SYSTEM
+<a id="-upgrading-system"></a>
 
-`EXPLORING` TypeScript and JavaScript application work.
+## // UPGRADING SYSTEM <sub>● EXPLORING</sub>
 
-`EXPERIMENTING` with web interfaces, repository structure, and deployed web projects.
+<img src="./assets/upgrading-system.svg" alt="Animated exploration, building, and learning progress bars" width="100%" />
 
-`BUILDING WITH` public GitHub workflows and small, focused software experiments.
+These bars are visual indicators, not measured proficiency scores.
 
-## // ACTIVITY NETWORK
+`EXPLORING` TypeScript and JavaScript application work.<br />
+`EXPERIMENTING` with web interfaces, repository structure, and deployed web projects.<br />
+`BUILDING WITH` public GitHub workflows and focused software experiments.
+
+<a id="-activity-network"></a>
+
+## // ACTIVITY NETWORK <sub>● LIVE SOURCE</sub>
+
+<img src="./assets/activity-network.svg" alt="Animated network linking profile, repositories, commits, languages, and GitHub" width="100%" />
 
 <div align="center">
-   <a href="https://github.com/Raghul-123-hub">OPEN THE LIVE ACTIVITY NETWORK</a>
+  <a href="https://github.com/Raghul-123-hub">OPEN THE LIVE GITHUB ACTIVITY NETWORK</a>
 </div>
 
-GitHub renders the contribution graph on the live profile. This README links to that source directly rather than embedding a third-party chart that can expire or become unavailable.
+GitHub renders the contribution graph and activity history on the live profile. This link uses that authoritative source directly instead of a third-party chart service.
 
-## // CONNECT
+<a id="-connect"></a>
+
+## // CONNECT <sub>● CHANNEL OPEN</sub>
+
+<img src="./assets/connect-network.svg" alt="Animated connection network linking Raghul D to GitHub and LinkedIn" width="100%" />
 
 | CHANNEL | LINK |
 | :--- | :--- |
 | GITHUB | [Raghul-123-hub](https://github.com/Raghul-123-hub) |
 | LINKEDIN | [Raghul D](https://www.linkedin.com/in/raghul-d-467729425/) |
 
----
+<a id="-system-online"></a>
+
+## // SYSTEM ONLINE
+
+<img src="./assets/system-online.svg" alt="Animated final system online network for Raghul D" width="100%" />
 
 <div align="center">
 
-## RAGHUL. D
-
+**RAGHUL. D**<br />
 **KEEP BUILDING.**<br />
 **KEEP EXPLORING.**
 
