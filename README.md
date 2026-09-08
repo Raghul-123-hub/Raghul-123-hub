@@ -152,8 +152,4 @@ GitHub renders the contribution graph and activity history on the live profile. 
 **KEEP BUILDING.**<br />
 **KEEP EXPLORING.**
 
-`SYSTEM ONLINE`
-
-*The web never stops.*
-
 </div>
