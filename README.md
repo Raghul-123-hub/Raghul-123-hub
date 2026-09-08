@@ -6,29 +6,12 @@
 
 # RAGHUL. D
 
-**DEVELOPER // BUILDER // CREATIVE TECHNOLOGIST**
-
-`SYSTEM STATUS` **ONLINE**
-
-*Every project is another web.*
-
-<a href="https://github.com/Raghul-123-hub">GitHub</a> &nbsp; / &nbsp;
-<a href="https://www.linkedin.com/in/raghul-d-467729425/">LinkedIn</a>
-
 </div>
 
 ---
 
-## // SYSTEM MAP
 
-`01` [ABOUT RAGHUL](#-about-raghul) &nbsp; `02` [DEVELOPMENT SIGNAL](#-development-signal)<br />
-`03` [ACTIVE MISSIONS](#-active-missions) &nbsp; `04` [CODE DNA](#-code-dna)<br />
-`05` [CURRENTLY BUILDING](#-currently-building) &nbsp; `06` [UPGRADING SYSTEM](#-upgrading-system)<br />
-`07` [ACTIVITY NETWORK](#-activity-network) &nbsp; `08` [CONNECT](#-connect) &nbsp; `09` [SYSTEM ONLINE](#-system-online)
-
-<a id="-about-raghul"></a>
-
-## // ABOUT RAGHUL <sub>● ACTIVE</sub>
+## ABOUT RAGHUL <sub>● ACTIVE</sub>
 
 <img src="./assets/about-network.svg" alt="Animated network connecting Raghul D with building, learning, and exploring" width="100%" />
 
@@ -38,7 +21,7 @@
 
 <a id="-development-signal"></a>
 
-## // DEVELOPMENT SIGNAL <sub>● ONLINE</sub>
+## DEVELOPMENT SIGNAL <sub>● ONLINE</sub>
 
 <img src="./assets/metrics-information.svg" alt="Animated GitHub metrics revealing 24 repositories, 0 public projects, and 0 stars" width="100%" />
 <img src="./assets/development-signal.svg" alt="Animated development signal dashboard showing online status and building mode" width="100%" />
@@ -54,9 +37,7 @@
 
 <a id="-active-missions"></a>
 
-## // ACTIVE MISSIONS <sub>● SCANNING</sub>
-
-Each mission is a real public repository. The cards reveal as the page loads; the text remains readable without animation.
+## ACTIVE MISSIONS <sub>● SCANNING</sub>
 
 ### MISSION 01 / `content-ops-starter`
 
@@ -120,44 +101,25 @@ Public repository with no description or detected primary language currently exp
 
 <a id="-code-dna"></a>
 
-## // CODE DNA <sub>● CONNECTED</sub>
-
 <img src="./assets/code-dna.svg" alt="Animated code network showing JavaScript and TypeScript signals" width="100%" />
-
-| VERIFIED LANGUAGE SIGNAL | PUBLIC REPOSITORIES |
-| :--- | :--- |
-| `TYPESCRIPT` | `content-ops-starter`, `nextjs-boilerplate` |
-| `JAVASCRIPT` | `FSF0101` and additional public repositories |
-| `HTML` | Additional public repositories |
-| `PYTHON` | Additional public repositories |
 
 GitHub remains the source of truth for the complete language distribution.
 
 <a id="-currently-building"></a>
 
-## // CURRENTLY BUILDING <sub>● ITERATING</sub>
+## CURRENTLY BUILDING <sub>● ITERATING</sub>
 
 <img src="./assets/currently-building.svg" alt="Animated terminal showing building, experimenting, and iterating states" width="100%" />
 
-- Web interface and application experiments represented by the TypeScript repositories.
-- Coursework-driven software repositories identified by the `CSA` and `FSF` projects.
-- Creative technology exploration through public software experiments.
-
 <a id="-upgrading-system"></a>
 
-## // UPGRADING SYSTEM <sub>● EXPLORING</sub>
+## UPGRADING SYSTEM <sub>● EXPLORING</sub>
 
 <img src="./assets/upgrading-system.svg" alt="Animated exploration, building, and learning progress bars" width="100%" />
 
-These bars are visual indicators, not measured proficiency scores.
-
-`EXPLORING` TypeScript and JavaScript application work.<br />
-`EXPERIMENTING` with web interfaces, repository structure, and deployed web projects.<br />
-`BUILDING WITH` public GitHub workflows and focused software experiments.
-
 <a id="-activity-network"></a>
 
-## // ACTIVITY NETWORK <sub>● LIVE SOURCE</sub>
+## ACTIVITY NETWORK <sub>● LIVE SOURCE</sub>
 
 <img src="./assets/activity-network.svg" alt="Animated network linking profile, repositories, commits, languages, and GitHub" width="100%" />
 
@@ -169,7 +131,7 @@ GitHub renders the contribution graph and activity history on the live profile. 
 
 <a id="-connect"></a>
 
-## // CONNECT <sub>● CHANNEL OPEN</sub>
+## CONNECT <sub>● CHANNEL OPEN</sub>
 
 <img src="./assets/connect-network.svg" alt="Animated connection network linking Raghul D to GitHub and LinkedIn" width="100%" />
 
@@ -180,7 +142,7 @@ GitHub renders the contribution graph and activity history on the live profile. 
 
 <a id="-system-online"></a>
 
-## // SYSTEM ONLINE
+## SYSTEM ONLINE
 
 <img src="./assets/system-online.svg" alt="Animated final system online network for Raghul D" width="100%" />
 
